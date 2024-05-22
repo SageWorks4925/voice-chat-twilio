@@ -1,5 +1,5 @@
 # Call GPT: Generative AI Phone Calling
-
+This repo is a copy of https://github.com/twilio-labs/call-gpt/tree/main repo by Twilio
 Wouldn't it be neat if you could build an app that allowed you to chat with ChatGPT on the phone?
 
 Twilio gives you a superpower called [Media Streams](https://twilio.com/media-streams). Media Streams provides a Websocket connection to both sides of a phone call. You can get audio streamed to you, process it, and send audio back.
